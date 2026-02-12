@@ -2,7 +2,7 @@ document.getElementById("yesBtn").addEventListener("click", function() {
     document.getElementById("yesBtn").hidden = true;
     document.getElementById("noBtn").hidden = true;
     document.getElementById("explosionMind").hidden = false;
-    document.getElementById("yey").hidden = false;
+    document.getElementById("yay").hidden = false;
     document.getElementById("subliminalMsg").innerText = "🐟🐢🐟🐢🐟🐢🐟🐢 are the best in the sea 🐟🐢🐟🐢🐟🐢🐟🐢";
 });
 
